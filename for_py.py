@@ -4,3 +4,5 @@ for planta, t in zip(plantas, tamanho):
     print(f'planta {planta} : tamanho {t}')
 
 # gerando conflito local
+    
+# gerando conflito remoto
